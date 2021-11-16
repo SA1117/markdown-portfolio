@@ -1,1 +1,2 @@
-_includes/03-links.md.
+_includes/02-image.md
+alt-text!
